@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  leader: MyString
+  start_date: 2024-06-26
+  end_date: 2024-06-26
+  employee_type: MyString
+  reason: MyString
+  state: false
+  email: MyString
+
+two:
+  name: MyString
+  leader: MyString
+  start_date: 2024-06-26
+  end_date: 2024-06-26
+  employee_type: MyString
+  reason: MyString
+  state: false
+  email: MyString
